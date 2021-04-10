@@ -1,0 +1,15 @@
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Ink Pad\bin\Debug\Ink Pad.exe.config
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Ink Pad\bin\Debug\Ink Pad.exe
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Ink Pad\bin\Debug\Ink Pad.pdb
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Ink Pad\obj\Debug\Ink Pad.csprojAssemblyReference.cache
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Ink Pad\obj\Debug\MainWindow.g.cs
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Ink Pad\obj\Debug\App.g.cs
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Ink Pad\obj\Debug\Ink Pad_MarkupCompile.cache
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Ink Pad\obj\Debug\Ink Pad_MarkupCompile.lref
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Ink Pad\obj\Debug\MainWindow.baml
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Ink Pad\obj\Debug\Ink Pad.g.resources
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Ink Pad\obj\Debug\Ink_Pad.Properties.Resources.resources
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Ink Pad\obj\Debug\Ink Pad.csproj.GenerateResource.cache
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Ink Pad\obj\Debug\Ink Pad.csproj.CoreCompileInputs.cache
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Ink Pad\obj\Debug\Ink Pad.exe
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Ink Pad\obj\Debug\Ink Pad.pdb

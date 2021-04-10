@@ -1,0 +1,15 @@
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Param\bin\Debug\Param.exe.config
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Param\bin\Debug\Param.exe
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Param\bin\Debug\Param.pdb
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Param\obj\Debug\Param.csprojAssemblyReference.cache
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Param\obj\Debug\MainWindow.g.cs
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Param\obj\Debug\App.g.cs
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Param\obj\Debug\Param_MarkupCompile.cache
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Param\obj\Debug\Param_MarkupCompile.lref
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Param\obj\Debug\MainWindow.baml
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Param\obj\Debug\Param.g.resources
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Param\obj\Debug\Param.Properties.Resources.resources
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Param\obj\Debug\Param.csproj.GenerateResource.cache
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Param\obj\Debug\Param.csproj.CoreCompileInputs.cache
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Param\obj\Debug\Param.exe
+C:\Users\vsakh\Desktop\Sharaga\ITMO_Software_dev\Software_Development\Param\obj\Debug\Param.pdb
